@@ -22,4 +22,5 @@ We welcome contributions to enhance the functionality and performance of the mod
 This project is licensed under the MIT License.
 
 ## Citation
-Cite this repository or one of the associated papers, such as:....
+Cite this repository or one of the associated papers *soon available*...
+
