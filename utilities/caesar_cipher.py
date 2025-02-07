@@ -1,5 +1,5 @@
 #------------------------------------------------------------------------------
-# cesar_cipher.py
+# caesar_cipher.py
 #
 # This module provides utility functions for generating random strings, 
 # encrypting/decrypting text using Caesar's cipher, and performing frequency 
@@ -45,7 +45,7 @@ def generate_random_string(length, letters=None):
     else:
         raise NotImplementedError
 
-def cesars_cipher_encryption(text, shift_amount):
+def caesars_cipher_encryption(text, shift_amount):
     """
     Encrypts or decrypts a text using a Caesar's cipher based on the shift_right function.
 
