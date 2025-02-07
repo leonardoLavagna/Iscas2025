@@ -1,6 +1,6 @@
 # Iscas2025
 
-Implementations for the project "Trade-offs in Cryptosystems by Boolean and Quantum Circuits".
+Implementations for the project "Trade-offs in Cryptosystems by Boolean and Quantum Circuits" presented at the conference [Iscas 2025](https://2025.ieee-iscas.org/).
 
 ## What's in here?
 Here you can find the code we used in the project.
