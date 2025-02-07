@@ -6,8 +6,8 @@ Implementations for the project "Trade-offs in Cryptosystems by Boolean and Quan
 Here you can find the code we used in the project.
 * `utilities` contains functions to carry out random walks, Grover searches and frequency attacks on the Caesar's cipher.
 * `config.py` is a configuration file used to specify some settings (e.g. the noise model).
-* `requirements.txt` contains the requirements (install the file before using the code in this repository).
 * `notebooks` contains the script we used to get the main results in the project, as well as to get the parameter `tvd` in the configuration file (i.e. the total variation distance metric).
+* `requirements.txt` contains the requirements (install the file before using the code in this repository).
 * `LICENSE` MIT License.
 
 ## Use this repository
