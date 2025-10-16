@@ -22,5 +22,17 @@ We welcome contributions to enhance the functionality and performance of the mod
 This project is licensed under the MIT License.
 
 ## Citation
-Cite this repository or one of the associated papers *soon available*...
+Cite this repository or one of the associated papers 
+```
+@INPROCEEDINGS{Lav25,
+  author={Lavagna, Leonardo and De Falco, Francesca and Ceschini, Andrea and Rosato, Antonello and Panella, Massimo},
+  booktitle={2025 IEEE International Symposium on Circuits and Systems (ISCAS)}, 
+  title={Trade-offs in Cryptosystems by Boolean and Quantum Circuits}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Fault tolerance;Circuits and systems;Fault tolerant systems;Quantum mechanics;Focusing;Encryption;Noise measurement;Quantum circuit;Integrated circuit modeling;Circuit theory},
+  doi={10.1109/ISCAS56072.2025.11043205}}
+``` 
 
